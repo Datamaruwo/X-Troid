@@ -71,10 +71,10 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Ｘ-Ｔｒｏｉｄ",
+            "RESTART_DESC": "Restart Datamaruwobot",
             "RESTART_MSG": "```Restarting...```",
-            "SHUTDOWN_DESC": "Shutdown Ｘ-Ｔｒｏｉｄ",
-            "SHUTDOWN_MSG": "```Shutting down ⛔```",
+            "SHUTDOWN_DESC": "Shutdown Datamaruwobot",
+            "SHUTDOWN_MSG": "```Shutting down Datamaruwobot⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -203,7 +203,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*✅ Successfully Updated!*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*💬 Ｘ-Ｔｒｏｉｄ Restarting Automatically!*",
+            "AFTER_UPDATE": "*💬 Datamaruwobot Restarting Automatically!*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -475,7 +475,7 @@
         },
         "covid": {
             "COV_DESC": "Shows the daily and overall covid table of more than 15 countries.",
-            "NOT": "*😷 Be careful🤒*\n\n⚠️ Avoid public places\n⚠️Wear masks\n⚠️ Wash your hands often\n\n*For the information you need*\n Visit the WHO official whatsapp\nwa.me/+41798931892\n\n *A reminder of your life to you* \n     *💡Danuma Group📚*"
+            "NOT": "*😷 Be careful🤒*\n\n⚠️ Avoid public places\n⚠️Wear masks\n⚠️ Wash your hands often\n\n*For the information you need*\n Visit the WHO official whatsapp\nwa.me/+41798931892\n\n *A reminder of your life to you* \n     *💡Datamaruwobot🇱🇰*"
         }
     }
 }
