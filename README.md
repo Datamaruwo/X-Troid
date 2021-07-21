@@ -29,9 +29,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 
-## Thanks To
-[![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)  | [![CW4RR10R](https://github.com/CW4RR10R.png?size=50)](https://github.com/CW4RR10R)
-----|----|
+## join us
+
+
 ##🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗚𝗥𝗢𝗨𝗣
 🔗https://t.me/datamaruwa
 🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗡𝗡𝗘𝗟
