@@ -32,8 +32,22 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)  | [![CW4RR10R](https://github.com/CW4RR10R.png?size=50)](https://github.com/CW4RR10R)
 ----|----|
-[Yusuf Usta](https://t.me/fusufs) | [CW4RR10R](https://t.meW4RR10R)
- Base, | hepls,idea
+##🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗚𝗥𝗢𝗨𝗣
+🔗https://t.me/datamaruwa
+🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗡𝗡𝗘𝗟
+🔗https://t.me/sldata1
+🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗕𝗢𝗧 1️⃣
+🔗https://t.me/Datamaruwo2bot
+🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗕𝗢𝗧 2️⃣
+🔗https://t.me/SKSbattabot
+🔰 𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣2️⃣
+🔗https://chat.whatsapp.com/HsEGS3r8de40x99TBHFOMN
+🔰 𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣3️⃣
+🔗https://chat.whatsapp.com/LTvwI9vghx94e4mixI0ljQ 
+◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒
+🇱🇰 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗨𝘀𝗶𝗻𝗴 𝗢𝘂𝗿 𝗕𝗼𝘁 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 🇱🇰
+◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒
+
 
 # base bot
 https://github.com/yusufusta/WhatsAsena
