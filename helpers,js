@@ -1,5 +1,5 @@
 /*
-# Exclusively from danuma project 
+# Exclusively from Datamaruwo_bot project 
 # Do not use this fore any commercial thing
 # If you abuse thais bot we wil kick you from bot 
 # Do not edit (Respect to the Devaoloper) 
@@ -8,13 +8,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *x-Troid*:  ```" + msg + "```"
+    return "✅ *Datamaruwo_bot*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *x-Troid*:  ```" + msg + "```"
+    return "🛑 *Datamaruwo_bot*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *x-Troid*:  ```" + msg + "```"
+    return "⏺️ *Datamaruwo_bot*:  ```" + msg + "```"
 }
 
 
