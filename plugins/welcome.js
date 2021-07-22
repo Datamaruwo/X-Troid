@@ -1,8 +1,8 @@
-/* # Exclusively from danuma project 
+/* # Exclusively from Datamaruwo project welcome. 
 # Do not use this fore any commercial thing
 # If you abuse thais bot we wil kick you from bot 
 # Do not edit (Respect to the Devaoloper) 
-# All rights reserved ©Lasiya @lasiya99X t.me/lasiya99X
+# All rights reserved ©Mihiranga 
 
 
 const Asena = require('../events');
@@ -20,7 +20,7 @@ dsd    #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
     #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
     #STRINGSESSION = os.environ.get("STRINGSESSION", None)
     #ASSISTANT_START_PIC = os.environ.get(
-     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+     #   "ASSISTANT_START_PIC", "https://i.hizliresim.com/152nwlw.jpg"
     #3)
     #STRINGSESSION_2 = os.environ.get("STRINGSESSION_2", None)
     #S#TRINGSESSION_3 = os.environ.get("STRINGSESSION_3", None)
@@ -75,5 +75,5 @@ Asena.addCommand({pattern: 'goodbye (.*)', fromMe: true, dontAddCommandList: tru
         return await message.client.sendMessage(message.jid,Lang.GOODBYE_SETTED,MessageType.text)
     }
 }));
-# Get more about devaoloper https://lasiya.ml
+# Get more about devaoloper contact our group addmins
 */
