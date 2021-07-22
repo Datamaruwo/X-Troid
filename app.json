@@ -1,15 +1,15 @@
 {
-    "name": "X-Troid",
+    "name": "Datamaruwo_bot🇱🇰",
     "description": "World First sinhala whatsapp bot",
-    "logo": "https://telegra.ph/file/da6dadcdee7e1b304325a.jpg",
+    "logo": "https://i.hizliresim.com/152nwlw.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
     "repository": "",
-    "website":   "lasiya.ml",
-    "success_url": "https://t.me/danumabots",
+    "website":   "https://data-maruwo.business.site?whatsapp",
+    "success_url": "https://data-maruwo.business.site?whatsapp",
     "stack": "container",
     "env": {
-        "A_XTROID_SESSION": {
-            "description": "Type here yours X-Troid Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
+        "A_Datamaruwo_bot_SESSION": {
+            "description": "Type here yours Datamaruwo_bot Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
             "required": true
         },
         "SUDO": {
@@ -113,7 +113,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back./ALIVE පණිවිඩය ඔබට අවශ්‍ය පරිදි වෙනස් කරගැනීමට",
             "required": false,
-            "value": "🧧 X-Troid 🧧\nName: X-Troid\nYoutube : youtu.be/mDnJ7q3S3eY\nInfo : type .bot"
+            "value": "🇱🇰Datamaruwo_bot\nName: Datamaruwo_bot\nYoutube : youtu.be/mDnJ7q3S3eY\nInfo : type .bot"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.යමෙකු සමුහයෙන් ඉවත් කරීමේ පණිවිඩය වෙනස් කිරීමට",
@@ -148,7 +148,7 @@
         "GAN_IMAGE": {
             "description": "Type image link for Gan Style plugin.",
             "required": true,
-            "value": "https://telegra.ph/file/2bb85d7b80b9ad96bcb96.jpg"
+            "value": "https://i.hizliresim.com/152nwlw.jpg"
         },
         "NO_ONLINE": {
             "description": "Type true if you don't want to appear online.ගිණුම online වසා තැබීමට",
