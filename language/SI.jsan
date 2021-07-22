@@ -11,7 +11,7 @@
             "NOT_FOUND": "*එවැනි විධානයක් සොයාගැනීමට නොමැත🤔*",
             "WARN": "Warn"
         },
-        "_plugin": {
+        "🇱🇰_plugin": {
             "INSTALL_DESC": "බාහිර  plugins ස්ථාපනය කරන්න. ",
             "NEED_URL": "කරුණාකර URL එකක් ඇතුළත් කරන්න! උදාහරණයක්:",
             "INVALID_URL": "```වලංගු URL එක ඇතුලත් කරන්න!```",
@@ -25,7 +25,7 @@
             "NOT_FOUND_PLUGIN": "```සමහර විට ඔබ එවැනි ප්ලගිනයක් ස්ථාපනය කර ඇති අතර සමහර විට නැත. නමුත් එය දැන් නොමැති බව විශ්වාසයි.```",
             "DELETED": "*✅ මොඩියුලය සාර්ථකව මකා දමන ලදි!*"
         },
-        "admin": {
+        "🇱🇰admin": {
             "BAN_DESC": "කණ්ඩායමේ කෙනෙකු තහනම් කරන්න. පණිවිඩයට පිළිතුරු දෙන්න හෝ විධානය භාවිතා කිරීමට පුද්ගලයෙකු ටැග් කරන්න.",
             "IM_NOT_ADMIN": "*මම මෙම කණ්ඩායමේ පරිපාලක නොවේ!*",
             "BANNED": "කණ්ඩායමෙන් පන්නා දැමුවා!",
@@ -45,14 +45,14 @@
             "INVITE_DESC": "කණ්ඩායමේ ආරාධනා සබැඳිය සපයයි.",
             "INVITE": "```ආරාධනා සබැඳිය: ```"
         },
-        "locate": {
+        "🇱🇰locate": {
             "L_DESC": "එය ඔබගේ ස්ථානය යවයි.",
             "L_WARN": "විධානය භාවිතා කිරීමට පෙර කරුණාකර ඔබේ ස්ථානය විවෘත කරන්න!"
         },
-        "afk": {
+        "🇱🇰afk": {
             "AFK_DESC": "එය ඔබව AFK බවට පත් කරයි - යතුරුපුවරුවෙන් ඉවතට.",
-            "IM_AFK": "*I'm AFK now!*",
-            "IM_AFK_NOMD": "I'm AFK now!",
+            "IM_AFK": "*I'm Datamaruwobot🇱🇰!*",
+            "IM_AFK_NOMD": "I'm Datamaruwobot🇱🇰!",
             "REASON": "හේතුව",
             "LAST_SEEN": "අවසන් වරට දැක ඇත",
             "IM_NOT_AFK": "```I am not AFK anymore!```",
@@ -63,7 +63,7 @@
             "SECOND": "තත්පර",
             "AGO": " පෙර```"
         },
-        "whois": {
+        "🇱🇰whois": {
             "PL_DESC": "කණ්ඩායමේ හෝ පුද්ගලයාගේ තොරතුරු  පෙන්වයි",
             "SUB": "*කණ්ඩායමේ නම:* ",
             "DES": "*කණ්ඩායමේ විස්තරය:* ",
@@ -72,16 +72,16 @@
             "JİD": "*පද්ගල කේතය:* ",
             "ST": "*පුද්ගල තත්වය:* "
         },
-        "evaluators": {
+        "🇱🇰evaluators": {
             "TERM_DESC": "සේවාදායකයේ කවචයේ විධානය ක්‍රියාත්මක කිරීමට ඉඩ දෙන්න.",
             "GIVE_ME_CODE": "*මට කේතයක් දෙන්න!*"
         },
-        "nekobin": {
+        "🇱🇰nekobin": {
             "NEKO_DESC": "පිළිතුරු දුන් පණිවිඩ nekobin.com වෙත එක් කරනු ඇත.",
             "NEED_REPLY": "```කරුණාකර පණිවිඩයකට පිළිතුරු දෙන්න!```",
             "MUST_TEXT": "```කරුණාකර ඕනෑම පණිවිඩයකට පිළිතුරු දෙන්න```"
         },
-        "heroku": {
+        "🇱🇰heroku": {
             "RESTART_DESC": "Datamaruwobot🇱🇰 නැවත ආරම්භ කරන්න",
             "RESTART_MSG": "```නැවත ආරම්භ කිරීම...```",
             "SHUTDOWN_DESC": "වසා දැමීම Datamaruwobot🇱🇰",
@@ -100,7 +100,7 @@
             "DEL_SUCCESS": ```{} සාර්ථකව මකා දමන ලදි```"
             "NOT_FOUND": "```මෙම යතුර සඳහා ප්රතිපල හමු නොවීය```"           
         },
-        "filters": {
+        "🇱🇰filters": {
             "FILTER_DESC": "එය පෙරනයක් එක් කරයි. කවුරුහරි ඔබේ පෙරණය ලියන්නේ නම්, එය පිළිතුර යවයි. ඔබ .filter ලියන්නේ නම්, එය ඔබගේ පෙරහන් ලැයිස්තුව පෙන්වයි.",
             "NO_FILTER": "*❌ මෙම සංවාදයේ පෙරහන් නොමැත!*",
             "FILTERS": "*🔎 මෙම කතාබස් තුළ ඔබගේ පෙරහන් තිබේ:*",
@@ -111,7 +111,7 @@
             "ALREADY_NO_FILTER": "*❌ දැනටමත් මේ වගේ පෙරනයක් නොමැත!*",
             "DELETED": "*✅පෙරණය සාර්ථකව මකා දමන ලදි!*"
         },
-        "greetings": {
+        "🇱🇰greetings": {
             "WELCOME_DESC": "එය පිළිගැනීමේ පණිවිඩය සකසයි. ඔබ එය හිස්ව තැබුවහොත් එය පිළිගැනීමේ පණිවිඩය පෙන්වයි.",
             "NOT_SET_WELCOME": "*ඔබ තවමත් පිළිගැනීමේ පණිවිඩය සකසා නැත.!*\n**To set:** ```.welcome hi && hi#how are you?```",
             "WELCOME_ALREADY_SETTED": "*✅ පිළිගැනීමේ පණිවිඩය දැනටමත් සකසා ඇත!*\n*Message:* ```",
@@ -125,7 +125,7 @@
             "GOODBYE_DELETED": "*✅ ආයුබෝවන් පණිවිඩය සාර්ථකව මකා දමා ඇත!*",
             "GOODBYE_SETTED": "*✅ ආයුබෝවන් පණිවිඩය සාර්ථකව සකසා ඇත!*"
         },
-        "lydia": {
+        "🇱🇰lydia": {
             "ADDLYDIA_DESC": "පරිශීලකයා සඳහා ලිඩියා (AI) සක්‍රීය කරයි.",
             "NEED_REPLY": "```කරුණාකර පරිශීලක පණිවිඩයකට ප්‍රතිචාර දක්වන්න!```",
             "COFFEEHOUSE": "```ඔබ කෝෆිහවුස් API යතුර නිර්වචනය කර නැත! ```",
@@ -136,19 +136,19 @@
             "DISABLED": "*Ai asinstant වසා ඇත*"
             
         },
-        "memes": 
+        "🇱🇰memes": 
             "MEMES_DESC": "ඔබ පිළිතුරු දුන් ඡායාරූප මිම්ස්.",
             "NEED_REPLY": "*ඡායාරූපයකට රිප්ලයිකරන්න!*",
             "DOWNLOADING": "```meme මාධ්‍ය බාගත කිරීම සහ සෑදීම```"
         },
-        "ocr": {
+        "🇱🇰ocr": {
             "OCR_DESC": "ඔබ පිළිතුරු දුන් ඡායාරූපයෙහි පෙළ කියවයි.",
             "NEED_REPLY": "*Reply to a photo!*",
             "DOWNLOADING": "```Media is downloading & reading...```",
             "ERROR: "```I couldn't read this :/```\n*Error:*```{}```",
             "RESULT": "*Language:* ```{}```\n*Here is what I read:* ```{}```"
         },
-        "profile": 
+        "🇱🇰profile": 
             "KICKME_DESC": "It kicks you from the group you are using it in.",
             "KICKME": "```Bye bye! I am going 🤠```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
@@ -165,13 +165,13 @@
             "JID": "```ID of``` @{} ```: {}```",
             "JID_CHAT": "```Chat's ID : {}```"
         },
-        "removebg": {
+        "🇱🇰removebg": {
             "REMOVEBG_DESC": "ඡායාරූපවල පසුබිම ඉවත් කරයි.",
             "NEED_PHOTO": "*මට ඡායාරූපයක් දෙන්න!*",
             "NO_API_KEY": "*You don't have an API key!*\nYou can get it here: remove.bg.",
             "RBGING": "```පසුබිම ඉවත් කිරීම...```"
         },
-        "scrapers": {
+        "🇱🇰scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
             "TRANSLATE_USAGE": ".trt tr it (From Turkish to Italian)",
             "NEED_REPLY": "```Please reply to any message!```",
@@ -187,35 +187,35 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "```Downloading your song...```"
-            "UPLOADING_SONG": "```Uploading your song...```"
+            "DOWNLOADING_SONG": "```Downloading your song Datamaruwo_bot...```"
+            "UPLOADING_SONG": "```Uploading your song Datamaruwo_bot...```"
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading your video...```",
-            "UPLOADING_VIDEO": "```Uploading your video...```",
+            "DOWNLOADING_VIDEO": "```Downloading your video Datamaruwo_bot...```",
+            "UPLOADING_VIDEO": "```Uploading your video Datamaruwo_bot ...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
-            "GETTING_VIDEOS": "```I'm bringing videos...```",
+            "GETTING_VIDEOS": "```Datamaruwo_bot bringing videos...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
-            "SEARCHING": "* 🔎 Searching...*",
+            "SEARCHING": "* 🔎 Searching Datamaruwo_bot...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "Uploading photo ```{}``` number ```{} ```..."
         },
-        "sticker": {
+        "🇱🇰sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
             "DOWNLOADING": "```Media downloading & converting to sticker...```"
         },
-        "system_stats": {
+        "🇱🇰system_stats": {
             "ALIVE_DESC": "Does bot work?",
             "SYSD_DESC": "Shows the system properties."
         },
-        "tagall": {
+        "🇱🇰tagall": {
             "TAGALL_DESC": "Tags everyone in the group.",
             "ADMİN": "*I am not admin in this group!*"
         },
-        "updater": {
+        "🇱🇰updater": {
             "UPDATER_DESC": "Checks the update."
             "UPDATE": "*✔️Your bot is completely up-to-date!*",
             "NEW_UPDATE": "*New updates available for X-Troid!*\n\n*Changes:*\n\n```",
@@ -237,7 +237,7 @@
             "CLOUD": "Clouds⛅",
             "NOT_FOUND": "```I couldn't find a city with this name. 😖```"
         },
-        "web": {
+        "🇱🇰web": {
             "SPEEDTEST_DESC": "Measures Download and Upload speed."
             "SPEEDTESTING": "```Running speed test...```",
             "SPEEDTEST_RESULT": "*Speed ​​test completed!*",
@@ -246,7 +246,7 @@
             "PING_DESC": "Measures your ping.",
             "URL": "Shorten the long link."
         },
-        "conventer": {
+        "🇱🇰conventer": {
             "MP4TOAUDİO_DESC": "Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
             "MP4TOAUDİO": "```Converting Video to Audio..```",
@@ -258,7 +258,7 @@
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_DESC": "Applies the selected TBlend effect to videos."
         },
-        "mute": {
+        "🇱🇰mute": {
             "BİRMUTE": "*The group was silenced for 1 minute!*",
             İKİMUTE": "*The group was silenced for 2 minute!*"
             "ÜÇMUTE": "*The group was silenced for 3 minute!*",
@@ -337,16 +337,16 @@
             MUTE_DESC": "Turns off group chat. Only admins can send messages!",
             "MUTE_OPEN": "```The group chat has unmuted!```"
         }
-        "unvoice": {
+        "🇱🇰unvoice": {
             "UV_DESC": "Converts audio to sound recording.",
             "UV_REPLY": "*You Must Reply to the Audio File!*",
             "UV_PROC": "```Converting to Sound Recording ..```"
         }
-        "ffmpeg": {
+        "🇱🇰ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
             "FF_PROC": "Applying Effect.."
         },
-        "spammer": 
+        "🇱🇰spammer": 
             "SPAM_DESC": "It spam until you stop it.\n⌨️ Example: .spam test",
             "NEED_WORD": "*Need Some Words!*",
             "STOP_SPAMDESC": "Stops spam command.",
@@ -361,22 +361,22 @@
             "VİD_DESC": "Sends the replied video as spam.",
             "VİD_NEED": "```Please Reply to Any Video!```"
         },
-        "carbon": {
+        "🇱🇰carbon": {
             "CARBON_DESC": "Uses carbon.sh for Text-to-Image",
             "CARBON_NEEDWORD": "*Not enough arguments to translate Text-to-Image!*\nExample: ```.carbon test```\nExample: ```.carbon making#test```",
             "CARBON_WARN": "Please only type in en and tr character!"
         },
-        "scam": {
+        "🇱🇰scam": {
             "SCAM_DESC": "Creates 5 minutes of fake actions.",
             "SCAM_NOTFOUND": "*You Must Enter Fake Action!*\nExisting Types: ```typing & recording & online & stop```",
             "SCAM_NULL": "```Wrong ActionEntered! Please use existing types.```"
         },
-        "deepai": {
+        "🇱🇰deepai": {
             "DEEPAI_DESC": "Runs the most powerful artificial intelligence tools using artificial neural networks.",
             "TEXT": "*You must enter text! Although I am a powerful artificial intelligence, I cannot read your thoughts!*",
             "URL": "*You must enter the image URL!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
         },
-        "ttp": {
+        "🇱🇰ttp": {
             "TTP_DESC": "Converts text to plain painting.",
             "ATTP_DESC": "Adds rainbow effect to the text as a sticker.",
             "NEED_WORD": "*You must enter words!*",
@@ -393,20 +393,20 @@
             "TTOK_DESC": "make text with tiktok effect"
             
         },
-        "wallpaper": {
+        "🇱🇰wallpaper": {
             "WP": "It sends high resolution wallpapers."
         },
-        "webss": {
+        "🇱🇰webss": {
             "SS_DESC": "Takes a screenshot from the page in the given link.",
             "LİNK": "You must enter link!"
         },
-        "voicy": {
+        "🇱🇰voicy": {
             "NEED_REPLY": "```Please reply to any message!```",
             "ONLY_AUDIO":"```Only audio file is accepted.```",
             "USAGE": "It converts audio to text.",
             "TEXT": "*Hey! I listened secretly to this voice and heard those!:* \n\n"
         ,
-        "notes": {
+        "🇱🇰notes": {
             "NOTES_USAGE": "Shows all your existing notes.",
             "NO_SAVED": "You don't have any saved notes.",
             "SAVED": "Here is your saved messages: ",
@@ -417,7 +417,7 @@
             "DELETE_USAGE": "Deletes *all your saved notes.",
             "SUCCESSFULLY_DELETED": "Successfully deleted all your notes."
         },
-        "instagram": {
+        "🇱🇰instagram": {
             "NEED_WORD": "*Please enter username of any instagram account.*",
             "USAGE": ".insta <userName>",
             "DESC": "Fetches user informations from instagram",
@@ -432,7 +432,7 @@
             "HIDDEN": "Hidden",
             "NOT_FOUND":"User not found: "
         }
-        "github": {
+        "🇱🇰github": {
             "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github SLdevilX",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
@@ -454,7 +454,7 @@
             "URL": "Profile URL:",
             "UPDATE": "Last Update:"
         },
-        "tiktok": {
+        "🇱🇰tiktok": {
             "TİKTOK": "Downloads videos from Tiktok.",
             "NEED": "```You Must Enter Any Tiktok Link!``` \n*Example:* ```.tiktok https://vm.tiktok.com/ZSJY27ExT/```",
             "DOWN": "```Video Downloading Datamaruwobot🇱🇰g..```",
@@ -468,7 +468,7 @@
             "MUSİC": "Music:",
             "M_AUT": "Music Author:"
         },
-        "lyrics": {
+        "🇱🇰lyrics": {
             "LY_DESC": "Finds the lyrics of the song.",
             "NEED": "```You Must Write Any Song!```",
             "SLY": "Lyrics:"
@@ -476,7 +476,7 @@
             "BUL": "Founded Song:",
             "ARAT": "Searched Song:"
         },
-        "covid": 
+        "🇱🇰covid": 
             "COV_DESC": "Shows the daily and overall covid table of more than 15 countries.",
             "NOT": "*🤒 ප්‍රවේශම්වන්න😷*\n\n⚠️ සෙනඟ ගැවසෙන ස්ථාන මගහරින්න\n⚠️මුඛ ආවරණ පළඳින්න\n⚠️නිතර අත සෝදන්න\n\n*ඔබට අවශ්‍ය තොරතුරු දැනගැනීමට*\n WHO නිල whatsapp එක වෙත පිවිසෙන්න.\n wa.me/+41798931892\n\n*ඔබට ඔබේ ජීවිතය මතක් කිරීමකි*\n        💡*Datamaruwobot🇱🇰*"
         }
